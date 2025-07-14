@@ -10,6 +10,7 @@ namespace Gautam_23SOEIT11603
     {
         static void Main(string[] args)
         {
+            //right angle triangle pattern
             int n = 5;
             for(int i=0; i<=n; i++)
             {

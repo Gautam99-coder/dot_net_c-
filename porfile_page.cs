@@ -9,7 +9,7 @@ namespace Gautam_23SOEIT11603
             var myProfile = new
             {
                 Name = "Gautam Tharu",
-                DOB = new DateTime(2005, 12, 19),
+                DOB = new DateTime(2005, 12, 19), //this timedate is in the format YYYY, MM, DD
                 Address = "4, XYZ Society, Kalawad Road",
                 City = "Rajkot",
                 Pincode = "360001",
