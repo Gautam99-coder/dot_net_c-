@@ -44,8 +44,16 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="arr1.cs" />
+    <Compile Include="arr2.cs" />
+    <Compile Include="arr3.cs" />
+    <Compile Include="first_program.cs" />
+    <Compile Include="operator.cs" />
+    <Compile Include="pattern1.cs" />
+    <Compile Include="pattern2.cs" />
+    <Compile Include="porfile_page.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="switch_1.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

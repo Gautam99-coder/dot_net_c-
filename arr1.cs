@@ -11,11 +11,12 @@ namespace Gautam_23SOEIT11603
         static void Main(string[] args)
         {
             int[] arr = { 1, 2, 3, 4, 5 };
-            foreach (int i in arr)
+            for (int indx = 0; indx < arr.Length; indx++)
             {
-                Console.WriteLine(i);
+                int i = arr[indx];
+                Console.WriteLine(indx);
             }
-            Console.ReadLine();
+            string input = Console.ReadLine();
         }
     }
 }
